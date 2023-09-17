@@ -1,7 +1,7 @@
-![MasterHead](https://i.gifer.com/QWc9.mp4)
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*SWDxOQ75LU_kGLfZe2cPBA.gif)
 
 <h1 align="center">Hi 👋, I'm Radhesh Khaire</h1>
-<h3 align="center">A passionate AI Engineer and Data Scientist</h3>
+<h3 align="center">A passionate AI and Data Science student</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 🔭 I’m currently working on **YOLO v8 and OpenCV**
