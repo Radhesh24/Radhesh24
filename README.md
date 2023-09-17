@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/radhesh-khaire-882397246" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
