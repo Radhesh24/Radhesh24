@@ -1,10 +1,18 @@
-
+![MasterHead](https://i.gifer.com/QWc9.mp4)
 
 <h1 align="center">Hi 👋, I'm Radhesh Khaire</h1>
 <h3 align="center">A passionate AI Engineer and Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
-🔭 I’m currently working on YOLO v8 and OpenCV<br>👯 I’m looking to collaborate on Deep Learning projects<br>🌱 I’m currently learning Deep Learning and Generative AI<br>💬 Ask me about Machine Learning<br>
+🔭 I’m currently working on **YOLO v8 and OpenCV**
+
+👯 I’m looking to collaborate on **Deep Learning projects**
+
+🌱 I’m currently learning **Deep Learning and Generative AI**
+
+📫 How to reach me **radheshkhaire@gmail.com**
+
+💬 Ask me about **Machine Learning, Data Science, Statistics**
 
 
 ## 🌐 Socials:
