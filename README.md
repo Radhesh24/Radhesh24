@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Radhesh Khaire</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2F4-best-computer-vision-use-cases-for-solving-business-challenges-7d5e2e9e8239&psig=AOvVaw15piCjzd853qz5gBlQAzz5&ust=1695014693268000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDY-YT0sIEDFQAAAAAdAAAAABAh">
+<img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 <h3 align="center">A passionate AI Engineer and Data Scientist</h3>
 
 - 🔭 I’m currently working on **YOLO v8 and OpenCV**
